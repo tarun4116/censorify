@@ -1,0 +1,13 @@
+{
+    "author": "Brendan Dayley",
+    "name": "censorify-sowmya",
+    "version": "0.1.2",
+    "description": "Censors words out of text",
+    "main": "censortext.js",
+    "dependencies": {
+      "censorify-sowmya": "^0.1.2"
+    },
+    "engines": {
+      "node": "*"
+    }
+  }
